@@ -2,12 +2,12 @@ Howdy, this is a basic Midpoint Terrain Generation program that I wrote as a par
 The program includes click and drag functionality to look around the terrain to your hearts content.
 
 Some basic configuration settings: 
-*Note: All found as constants in the InitialiseWorld function*
+*Note: All found as constants in the 'InitialiseWorld' function*
 
-initialTerrainPoints is a list of points that is passed into the midpoint displacement algorithm. For basic ground and mountains, just specify points on an equal y plain
-iterations is the number of times the algorithm runs. Higher numbers results in higher fidelity terrain but is more computationally expensive.
-initialDisplacement is the amount the algorithm initially displaces the points. Higher values can create bigger terrain features.
-decayPower is how fast the algorithm reduces the displacement per iteration. Uses the equation 1/2^decayPower. So high decayPowers results in smoother terrain
+'initialTerrainPoints' is a list of points that is passed into the midpoint displacement algorithm. For basic ground and mountains, just specify points on an equal y plain
+'iterations' is the number of times the algorithm runs. Higher numbers results in higher fidelity terrain but is more computationally expensive.
+'initialDisplacement' is the amount the algorithm initially displaces the points. Higher values can create bigger terrain features.
+'decayPower' is how fast the algorithm reduces the displacement per iteration. Uses the equation 1/2^decayPower. So high decayPowers results in smoother terrain
 
 Suggested Initial Values-
 
