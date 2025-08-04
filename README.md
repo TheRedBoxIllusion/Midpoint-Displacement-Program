@@ -1,4 +1,4 @@
-Howdy, this is a basic Midpoint Terrain Generation program that I wroteas aa part of module based testing for an upcoming game.
+Howdy, this is a basic Midpoint Terrain Generation program that I wrote as a part of module based testing for an upcoming game.
 The program includes click and drag functionality to look around the terrain to your hearts content.
 
 Some basic configuration settings: 
