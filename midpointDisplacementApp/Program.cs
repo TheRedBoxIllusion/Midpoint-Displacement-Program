@@ -16,7 +16,7 @@ public class MidpointDisplacement
     private float randomToPlusMinusOffsetValue()
     {
         Random random = new Random();
-        double randomValue = random.Next(0, 2);
+        double randomValue = random.Next(0, 3);
 
 
         const double plusMinusOffsetRange = 2;
@@ -190,11 +190,11 @@ public class ProgramController
         List<(float, float)> initialTerrainPoints = new List<(float, float)>();
 
         initialTerrainPoints.Add((0, 200f));
-        
+        initialTerrainPoints.Add((1000f, -1000f));
         initialTerrainPoints.Add((2000f, 200f));
         const int iterations = 9;
-        const float initialDisplacement = 200f;
-        const float decayPower = 1.4f;
+        const float initialDisplacement = 300f;
+        const float decayPower = 1.2f;
 
         worldContext.generateTerrain(initialTerrainPoints, iterations, initialDisplacement, decayPower);
         int updateInterval = 10;
