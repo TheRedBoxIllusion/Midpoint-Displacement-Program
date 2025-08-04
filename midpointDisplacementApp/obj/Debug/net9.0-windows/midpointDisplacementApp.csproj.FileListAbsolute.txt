@@ -1,0 +1,14 @@
+C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\bin\Debug\net9.0-windows\midpointDisplacementApp.exe
+C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\bin\Debug\net9.0-windows\midpointDisplacementApp.deps.json
+C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\bin\Debug\net9.0-windows\midpointDisplacementApp.runtimeconfig.json
+C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\bin\Debug\net9.0-windows\midpointDisplacementApp.dll
+C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\bin\Debug\net9.0-windows\midpointDisplacementApp.pdb
+C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\obj\Debug\net9.0-windows\midpointDisplacementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\obj\Debug\net9.0-windows\midpointDisplacementApp.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\obj\Debug\net9.0-windows\midpointDisplacementApp.AssemblyInfo.cs
+C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\obj\Debug\net9.0-windows\midpointDisplacementApp.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\obj\Debug\net9.0-windows\midpointDisplacementApp.dll
+C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\obj\Debug\net9.0-windows\refint\midpointDisplacementApp.dll
+C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\obj\Debug\net9.0-windows\midpointDisplacementApp.pdb
+C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\obj\Debug\net9.0-windows\midpointDisplacementApp.genruntimeconfig.cache
+C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\obj\Debug\net9.0-windows\ref\midpointDisplacementApp.dll
