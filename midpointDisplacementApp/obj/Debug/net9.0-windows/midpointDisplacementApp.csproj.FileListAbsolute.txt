@@ -12,3 +12,4 @@ C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\obj\Debug\net9
 C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\obj\Debug\net9.0-windows\midpointDisplacementApp.pdb
 C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\obj\Debug\net9.0-windows\midpointDisplacementApp.genruntimeconfig.cache
 C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\obj\Debug\net9.0-windows\ref\midpointDisplacementApp.dll
+C:\Users\user1\Documents\C#TestingGrounds\midpointDisplacementApp\obj\Debug\net9.0-windows\midpointDisplacementApp.sourcelink.json

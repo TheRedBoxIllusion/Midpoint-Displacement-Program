@@ -190,11 +190,11 @@ public class ProgramController
         List<(float, float)> initialTerrainPoints = new List<(float, float)>();
 
         initialTerrainPoints.Add((0, 200f));
-        initialTerrainPoints.Add((1000f, -1000f));
+        
         initialTerrainPoints.Add((2000f, 200f));
         const int iterations = 9;
         const float initialDisplacement = 200f;
-        const float decayPower = 1.3f;
+        const float decayPower = 1.4f;
 
         worldContext.generateTerrain(initialTerrainPoints, iterations, initialDisplacement, decayPower);
         int updateInterval = 10;

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("midpointDisplacementApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+702a7a92d6a36a9314b241d9d5f91ab87935f1d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("midpointDisplacementApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("midpointDisplacementApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
