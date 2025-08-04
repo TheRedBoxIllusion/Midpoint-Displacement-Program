@@ -12,6 +12,8 @@ Some basic configuration settings:
 
 'decayPower' is how fast the algorithm reduces the displacement per iteration. Uses the equation 1/2^decayPower. So high decayPowers results in smoother terrain
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Suggested Initial Values-
 
 Flatlands:
